@@ -5,7 +5,7 @@ let lspServers = [
             \ #{
             \   name: 'vimls',
             \   filetype: ['vim'],
-            \   path: '/usr/bin/vim-language-server',
+            \   path: 'vim-language-server',
             \   args: ['--stdio']
             \ },
             \ #{
